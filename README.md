@@ -13,10 +13,10 @@ SS - Question Number<br />
 <h1>Use It</h1>
 
 Clone the project-- <br />
-`git clone https://github.com/thesmartaniket/oopwcpp`
+`git clone https://github.com/thesmartaniket/oopwithcpp`
 
 Directory-- <br />
-`cd oopwcpp`<br/>
+`cd oopwithcpp`<br/>
 `ls`<br/>
 
 Then `cd <folder-name>` to move to the required directory.<br/>
