@@ -1,6 +1,15 @@
 <h1>OOP with C++</h1>
 All the solutions of the programs(.cpp files) from the **OOP with C++ by E Balagurusamy** will be available here. I will be going to add the rest very soon. So, enjoy!
 
+<h1>File Format</h1>
+
+CHP_NN_PG_NN_PE_SS.cpp<br />
+CHP - Chapter<br />
+NN - Number/s<br />
+PG - Page<br />
+PE - Programming Exercises<br />
+SS - Question Number<br />
+
 <h1>Use It</h1>
 
 Clone the project-- <br />
