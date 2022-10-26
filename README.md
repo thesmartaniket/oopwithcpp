@@ -24,7 +24,7 @@ Then `cd <folder-name>` to move to the required directory.<br/>
 Use `g++ <file-name>` to compile it.<br/>
 Then use `./a.out` to run the compiled files.
 
-<h1>About the projrct & me</h1>
+<h1>About the project & me</h1>
 
 **Object-Oriented Programming with C++ (On-going)**
 
