@@ -19,7 +19,7 @@ Directory-- <br />
 `cd oopwithcpp`<br/>
 `ls`<br/>
 
-Then `cd <folder-name>` to move to the required directory.<br/>
+Then `cd '<folder-name>'` to move to the required directory.<br/>
 
 Use `g++ <file-name>` to compile it.<br/>
 Then use `./a.out` to run the compiled files.
